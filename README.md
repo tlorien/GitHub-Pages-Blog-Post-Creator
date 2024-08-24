@@ -1,6 +1,6 @@
 # GitHub Pages Blogger
 
-The **GitHub Pages Blogger** is a simple Python program designed to automate the creation and uploading of blog posts to a GitHub Pages repository. It utilizes GitHub tokens securely by storing them as encrypted environment variables, which are utilized by a password that is not stored on your machine.
+The **GitHub Pages Blogger** is a simple Python program designed to automate the creation and uploading of blog posts to a GitHub Pages repository. It utilizes GitHub tokens securely by storing them as encrypted environment variables, which are decrypted by a password that is not stored on your machine.
 
 This script is intended to be utilized with Jekyll [(click here to learn how to create your own GitHub Page)](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll).
 
