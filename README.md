@@ -39,10 +39,10 @@ python main.py
 
 2. Choose an Option:
 
-1: Create a new blog post
-2: Reset GitHub token
-3: Reset password
-4: Exit
+- 1: Create a new blog post
+- 2: Reset GitHub token
+- 3: Reset password
+- 4: Exit
 
 Follow Prompts: Depending on your choice: create a blog post, reset your GitHub token, or change your password.
 
