@@ -19,13 +19,13 @@ This script is intended to be utilized with Jekyll [(click here to learn how to 
 	```
 	git clone https://github.com/yourusername/blog-post-creator.git
 	cd blog-post-creator
-
+	```
 
 2. **Install the required Python packages:** Ensure you have Python 3.x installed and run:
 
 	```
 	pip install -r requirements.txt
-
+	```
 
 ## Usage
 
