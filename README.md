@@ -18,7 +18,7 @@ This script is intended to be utilized with Jekyll [(click here to learn how to 
 
 ```bash
 git clone https://github.com/tlorien/GitHub-Pages-Blogger.git
-cd blog-post-creator
+cd GitHub-Pages-Blogger
 ```
 
 2. **Install the required Python packages:** Ensure you have Python 3.x installed and run:
