@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-1. **Run the Script:**
+### **Run the Script:**
 
 Click main.py, or type in the console:
 
@@ -37,17 +37,9 @@ Click main.py, or type in the console:
 python main.py
 ```
 
-2. Choose an Option:
-
-- 1: Create a new blog post
-- 2: Reset GitHub token
-- 3: Reset password
-- 4: Exit
-
-Follow Prompts: Depending on your choice: create a blog post, reset your GitHub token, or change your password.
+Follow Prompts to create a blog post, reset your GitHub token, or change your token decryption password.
 
 ## Configuration
-
 
 **config/config.ini:** Configuration file to set repository details such as repo_owner, repo_name, branch, and posts_dir. This file is automatically created if it does not exist, and users will be prompted to fill in missing values.
 
