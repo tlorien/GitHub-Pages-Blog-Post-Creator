@@ -45,7 +45,7 @@ Follow Prompts to create a blog post, reset your GitHub token, or change your to
 
 ## Environment Variables
 
-**BLOG_POST_CREATOR_GITHUB_TOKEN:** The GitHub token encrypted and stored as a user environment variable. It is used to authenticate API requests to GitHub to both make push requests and check for existing file names to prevent overwrites.
+**BLOG_POST_CREATOR_GITHUB_TOKEN:** The GitHub token is encrypted and stored as a user environment variable. It is used to authenticate API requests to GitHub to both make push requests and check for existing file names to prevent overwrites.
 
 ## Requirements
 
