@@ -1,0 +1,6 @@
+requests
+cryptography
+configparser
+getpass
+base64
+platform
